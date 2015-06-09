@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".sensor">
+
+    <TextView
+        android:id = "@+id/tussenso"
+        android:text="@string/tussenso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="30sp">
+    </TextView>
+
+    <TextView
+        android:id = "@+id/salida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#336600"
+        android:textSize="20sp">
+    </TextView>
+</LinearLayout>

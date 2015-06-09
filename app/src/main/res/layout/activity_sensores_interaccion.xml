@@ -1,0 +1,71 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="nataniel.sensores_angp.sensores_interaccion">
+
+    <TextView
+        android:id = "@+id/etiqGiroscopio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etiqGiroscopio"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="20sp">
+    </TextView>
+    <TextView
+        android:id="@+id/Giroscopio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#336600">
+    </TextView>
+    <TextView
+        android:id = "@+id/etiqSensorDeLuz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etiqSensorDeLuz"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000">
+    </TextView>
+    <TextView
+        android:id="@+id/sensorDeLuz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#336600">
+    </TextView>
+    <TextView
+        android:id = "@+id/etiqSensorAcelerometro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etiqSensorAcelerometro"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000">
+    </TextView>
+    <TextView
+        android:id="@+id/sensorAcelerometro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#336600"
+        >
+    </TextView>
+    <TextView
+        android:id = "@+id/etiqSensordeProximidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etiqSensorDeProximidad"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000">
+    </TextView>
+    <TextView
+        android:id="@+id/sensorDeProximidad"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#336600">
+    </TextView>
+
+</LinearLayout>

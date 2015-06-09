@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sensores_angp</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="etiqGiroscopio">GYROSCOPE </string>
+    <string name="etiqSensorDeLuz">LIGHT</string>
+    <string name="etiqSensorAcelerometro">ACELEROMETER</string>
+    <string name="etiqSensorDeProximidad">PROXIMITY</string>
+    <string name="title_activity_sensores_interaccion">sensores_interaccion</string>
+    <string name="tussenso">YOUR SENSORS ARE:</string>
+    <string name="nuevalayout">USE SENSORS</string>
+</resources>
