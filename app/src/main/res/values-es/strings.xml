@@ -10,4 +10,7 @@
     <string name="title_activity_sensores_interaccion">sensores_interaccion</string>
     <string name="tussenso">TUS SENSORES SON:</string>
     <string name="nuevalayout">USAR SENSORES</string>
+    <string name="usar">Iniciar Sensores</string>
+    <string name="detener">Detener Sensores</string>
+    <string name="limpiar">Limpiar Datos</string>
 </resources>

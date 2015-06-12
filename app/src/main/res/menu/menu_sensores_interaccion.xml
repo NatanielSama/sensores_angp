@@ -3,15 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="nataniel.sensores_angp.sensores_interaccion">
     <item android:id="@+id/iniciar"
-        android:title="Iniciar sensores"
+        android:title="@string/usar"
         android:orderInCategory="100"
         app:showAsAction="never" />
     <item android:id="@+id/detener"
-        android:title="Detener Sensores"
+        android:title="@string/detener"
         android:orderInCategory="100"
         app:showAsAction="never" />
     <item android:id="@+id/limpiar"
-        android:title="Limpiar Pantalla"
+        android:title="@string/limpiar"
         android:orderInCategory="100"
         app:showAsAction="never" />
 
